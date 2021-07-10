@@ -6,7 +6,7 @@ import sys
 from pandas.core.frame import DataFrame
 from pandas.core.indexes.numeric import Int64Index
 from pandas.core.indexing import IndexingMixin
-import errores as er
+import errores as er 
 
 
 def validaTipos(lista):
