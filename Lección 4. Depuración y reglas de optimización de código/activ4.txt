@@ -1,0 +1,24 @@
+Ejercicio 1.
+
+Creo una función llamada max que recibe como parametro una lsita i devuelve el 
+número mayor de esa lista, recorriendo la lista con un bucle for elemento por elemento.
+
+Creo una segundo función que implementeará la comprension de listas, 
+de tal manera que se le pasa la lista de listas y nos da como resultado una lista
+con los valores mas grandes de cada elemento lista.
+
+Conclusiones: 
+La conclusión después de debugar es que se para en la comprension de listas despues de cada 
+iteracion de la funcion llamada es decir que se llama a la funcion que realiza el trabajo 
+sobre la lista por cada elemento.
+
+Ejercicio 2.
+
+Definimos la funcion es primo que nos indica si un  número es primo o no haciendo la operacion módulo para cada elemento 
+y por cada iteració elemento-1.
+
+Conclusiones:
+Simplifica la construcción de una lista final exponiendo unicamente los elementos que queremos que intervenga y nos ahoramos 
+tener que desarrollar la lógica de funcionamiento para conseguir dicho resultado.
+Tambien se demuestra despues de la iteracion que llama a la fucnion es primo por cada elemento de la lista y construye el resultado 
+(que es diferente de True/False que es el resultado que nos da la función es primo).
